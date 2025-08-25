@@ -29,9 +29,11 @@ Hi, I'm Naveen 👋
 [Email](mailto:indiannavi3@gmail.com)  
 
 ---
-
 ## 📊 GitHub Stats
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=naveen7413&theme=radical&border_radius=5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen7413&layout=compact&theme=radical)
+
 
 ---
 
