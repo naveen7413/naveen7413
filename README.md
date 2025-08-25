@@ -24,8 +24,8 @@ Hi, I'm Naveen 👋
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/naveen-kumar-6a29a9216/)) •  
-[Portfolio](https://github.com/your-username/portfolio](https://portfolio-1zb2vkeev-naveens-projects-0ebb2f07.vercel.app/)) •  
+[LinkedIn](https://www.linkedin.com/in/naveen-kumar-6a29a9216/) •  
+[Portfolio](https://portfolio-1zb2vkeev-naveens-projects-0ebb2f07.vercel.app/)•  
 [Email](mailto:indiannavi3@gmail.com)  
 
 ---
