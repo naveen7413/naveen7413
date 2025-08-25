@@ -17,9 +17,9 @@ Hi, I'm Naveen 👋
 ---
 
 ## 🌟 Featured Projects
-- [To-do List](h[ttps://github.com/your-username/lost-found](https://todo-list-beryl-zeta.vercel.app/))  
-- [Portfolio Website]([https://github.com/your-username/portfolio](https://portfolio-1zb2vkeev-naveens-projects-0ebb2f07.vercel.app/))  
-- [Movie Recommendation system]([https://github.com/your-username/travelog](https://movie-recommnedation-using-react.vercel.app/))  
+- [To-do List](https://todo-list-beryl-zeta.vercel.app/)
+- [Portfolio Website](https://portfolio-1zb2vkeev-naveens-projects-0ebb2f07.vercel.app/)
+- [Movie Recommendation system](https://movie-recommnedation-using-react.vercel.app/)
 
 ---
 
