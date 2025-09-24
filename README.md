@@ -18,7 +18,7 @@ Hi, I'm Naveen 👋
 
 ## 🌟 Featured Projects
 - [To-do List](https://todo-list-beryl-zeta.vercel.app/)
-- [Portfolio Website](https://portfolio-1zb2vkeev-naveens-projects-0ebb2f07.vercel.app/)
+- [Portfolio Website](https://portfolio-eight-xi-68.vercel.app/)
 - [Movie Recommendation system](https://movie-recommnedation-using-react.vercel.app/)
 
 ---
