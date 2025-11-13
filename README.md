@@ -13,7 +13,7 @@ Hi, I'm Naveen 👋
 - **Frontend:** HTML, CSS, JavaScript, React, Vite  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB , Sql,MySql,
-- **Others:** Git, GitHub, REST API ,Excel, 
+- **Others:** Git, GitHub, REST API ,Excel 
 
 ---
 
