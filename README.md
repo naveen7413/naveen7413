@@ -9,10 +9,11 @@ Hi, I'm Naveen 👋
 ---
 
 ## 🔧 Tech Stack
+- **Languages** C++,Python,Java
 - **Frontend:** HTML, CSS, JavaScript, React, Vite  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Others:** Git, GitHub, REST API  
+- **Database:** MongoDB , Sql,MySql,
+- **Others:** Git, GitHub, REST API ,Excel, 
 
 ---
 
