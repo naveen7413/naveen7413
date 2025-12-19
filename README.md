@@ -31,9 +31,14 @@ Hi, I'm Naveen 👋
 
 ---
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=naveen7413&theme=radical&border_radius=5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen7413&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naveen7413&theme=radical&border_radius=5" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen7413&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
 ---
