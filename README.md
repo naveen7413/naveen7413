@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Naveen 👋</h1>
-<h3 align="center">Frontend Developer • React.js • MERN Stack Enthusiast</h3>
+<h1 align="center">Naveen Kumar</h1>
+<h3 align="center">Frontend Developer • React.js • MERN Stack</h3>
 
 <p align="center">
-  Building clean, scalable & user-friendly web applications <br/>
-  🎸 Music • 📚 Novels • 🚀 Continuous Learning <br/>
+  Crafting scalable, responsive, and user-centric web applications <br/>
+  Focused on clean UI, strong fundamentals, and production-ready code <br/>
   📍 Patna, Bihar, India
 </p>
 
@@ -21,79 +21,99 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Developer Profile
 
-I’m a **Frontend-focused Full Stack Developer** with hands-on experience in **React.js and MERN stack**.  
-I enjoy transforming ideas into **responsive, accessible, and high-performance web applications**.
+I’m a **Frontend-focused Full Stack Developer** with hands-on experience building modern web applications using **React.js and the MERN stack**.
 
-I focus on:
-- Writing clean & maintainable code
-- Building real-world projects
-- Strengthening core CS fundamentals
-- Learning modern best practices in web development
+I specialize in:
+- Translating product requirements into clean, maintainable UI
+- Writing reusable, scalable frontend components
+- Building RESTful APIs and integrating secure authentication
+- Delivering responsive, accessible, and performance-optimized applications
 
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-</p>
-
-### 🗄️ Database & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/>
-</p>
+I value **code quality, consistency, and continuous learning**.
 
 ---
 
-## 🧠 Core Concepts
+## 🧰 Technical Skill Set
+
+### 💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42"/>
+</p>
+
+- Responsive Design & Mobile-First UI  
+- Component-Driven Architecture  
+- State Management with Redux  
+
+---
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
+</p>
+
+- RESTful API Design  
+- JWT-based Authentication & Authorization  
+- Middleware & Error Handling  
+
+---
+
+### 🗄️ Databases & Dev Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="42"/>
+</p>
+
+- Database Design & CRUD Operations  
+- Version Control & Collaboration  
+- Build Tools & Deployment Workflows  
+
+---
+
+## 🧠 Core Engineering Concepts
 
 - Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (Basics)
-- Full Stack Development (MERN)
-- RESTful APIs & JWT Authentication
-- Responsive Design & Web Performance
-- Deployment & Version Control
+- Data Structures & Problem Solving
+- Full-Stack Application Architecture
+- Authentication & Authorization
+- Performance Optimization
+- Deployment & CI/CD Basics
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Selected Projects
 
 🔹 **To-Do List Application**  
+A clean and responsive task manager built with React  
 👉 https://todo-list-beryl-zeta.vercel.app/
 
 🔹 **Personal Portfolio Website**  
+Modern portfolio showcasing projects and skills  
 👉 https://portfolio-eight-xi-68.vercel.app/
 
-🔹 **Movie Recommendation System (React)**  
+🔹 **Movie Recommendation System**  
+React-based UI for exploring movie recommendations  
 👉 https://movie-recommnedation-using-react.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveen7413&show_icons=true&theme=radical&hide_border=true" height="165"/>
@@ -103,5 +123,5 @@ I focus on:
 ---
 
 <p align="center">
-  ✨ <b>Code. Build. Improve. Repeat.</b> ✨
+  <b>Building real products. Improving every day.</b>
 </p>
