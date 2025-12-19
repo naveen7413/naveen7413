@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Naveen 👋</h1>
-<h3 align="center">Frontend Developer • React Enthusiast • MERN Stack Learner</h3>
+<h3 align="center">Frontend Developer • React.js • MERN Stack Enthusiast</h3>
 
 <p align="center">
-  💻 Building clean, responsive & user-friendly web apps <br/>
-  🎸 Music lover • 📚 Novel reader • 🚀 Tech explorer <br/>
+  Building clean, scalable & user-friendly web applications <br/>
+  🎸 Music • 📚 Novels • 🚀 Continuous Learning <br/>
   📍 Patna, Bihar, India
 </p>
 
@@ -23,38 +23,66 @@
 
 ## 🚀 About Me
 
-I’m a **passionate Frontend Developer** focused on building **clean UI, smooth UX, and scalable web applications**.  
-Currently sharpening my skills in **React and the MERN stack**, while practicing problem-solving with **C++**.
+I’m a **Frontend-focused Full Stack Developer** with hands-on experience in **React.js and MERN stack**.  
+I enjoy transforming ideas into **responsive, accessible, and high-performance web applications**.
 
-I believe in:
-- Writing readable & maintainable code
-- Learning by building real projects
-- Continuous improvement 🚀
+I focus on:
+- Writing clean & maintainable code
+- Building real-world projects
+- Strengthening core CS fundamentals
+- Learning modern best practices in web development
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-`C++` • `JavaScript` • `Python` • `Java`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
 
 ### 🎨 Frontend
-`HTML` • `CSS` • `JavaScript` • `React` • `Vite`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
+</p>
 
 ### ⚙️ Backend
-`Node.js` • `Express.js`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+</p>
 
-### 🗄️ Database
-`MongoDB` • `SQL` • `MySQL`
+### 🗄️ Database & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/>
+</p>
 
-### 🛠️ Tools
-`Git` • `GitHub` • `REST APIs` • `Excel`
+---
+
+## 🧠 Core Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (Basics)
+- Full Stack Development (MERN)
+- RESTful APIs & JWT Authentication
+- Responsive Design & Web Performance
+- Deployment & Version Control
 
 ---
 
 ## 🌟 Featured Projects
 
-🔹 **To-Do List App**  
+🔹 **To-Do List Application**  
 👉 https://todo-list-beryl-zeta.vercel.app/
 
 🔹 **Personal Portfolio Website**  
@@ -74,23 +102,6 @@ I believe in:
 
 ---
 
-## 🧑‍💻 Tools & Technologies
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
-</p>
-
----
-
-<p align="center">
-  ✨ <b>Code. Build. Learn. Repeat.</b> ✨
+  ✨ <b>Code. Build. Improve. Repeat.</b> ✨
 </p>
