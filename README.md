@@ -1,7 +1,8 @@
 <h1 align="center">Naveen Kumar</h1>
 <h3 align="center">Frontend Developer • React.js • MERN Stack  Software Engineer</h3>
 
-<p align="center">
+<p align="center">.
+  
   Crafting scalable, responsive, and user-centric web applications <br/>
   Focused on clean UI, strong fundamentals, and production-ready code <br/>
   📍 Patna, Bihar, India
