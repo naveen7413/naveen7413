@@ -4,7 +4,7 @@
 <p align="center">
   Crafting scalable, responsive, and user-centric web applications <br/>
   Focused on clean UI, strong fundamentals, and production-ready code <br/>
-  📍 Patna, Bihar, India.
+  📍 Patna, Bihar, India
 </p>
 
 <p align="center">
