@@ -1,6 +1,7 @@
-<h1>Naveen Kumar<h1>
-<h3 align="center">Frontend Developer • React.js • MERN Stack  Software Engineer</h3>
-
+<h1 align="center">Naveen Kumar</h1>
+<h3 align="center">
+Frontend Developer • React.js • MERN Stack • Software Engineer
+</h3>
 
 <p align="center">
   Crafting scalable, responsive, and user-centric web applications <br/>
@@ -22,15 +23,15 @@
 
 ---
 
-## 👨‍💻 Developer Profile
+## 👨‍💻 About Me
 
-I’m a **Frontend-focused Full Stack Developer** with hands-on experience building modern web applications using **React.js and the MERN stack**.
+I’m a **Frontend-focused Full Stack Developer** with hands-on experience building modern, scalable web applications using **React.js and the MERN stack**.
 
 I specialize in:
 - Translating product requirements into clean, maintainable UI
-- Writing reusable, scalable frontend components
-- Building RESTful APIs and integrating secure authentication
-- Delivering responsive, accessible, and performance-optimized applications
+- Building reusable and scalable frontend components
+- Developing RESTful APIs with secure authentication
+- Creating responsive, accessible, and performance-optimized applications
 
 I value **code quality, consistency, and continuous learning**.
 
@@ -46,6 +47,8 @@ I value **code quality, consistency, and continuous learning**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
 </p>
 
+---
+
 ### 🎨 Frontend Development
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
@@ -54,7 +57,7 @@ I value **code quality, consistency, and continuous learning**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42"/>
 </p>
 
-- Responsive Design & Mobile-First UI  
+- Responsive & Mobile-First Design  
 - Component-Driven Architecture  
 - State Management with Redux  
 
@@ -66,8 +69,8 @@ I value **code quality, consistency, and continuous learning**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
 </p>
 
-- RESTful API Design  
-- JWT-based Authentication & Authorization  
+- RESTful API Development  
+- JWT Authentication & Authorization  
 - Middleware & Error Handling  
 
 ---
@@ -82,7 +85,7 @@ I value **code quality, consistency, and continuous learning**.
 </p>
 
 - Database Design & CRUD Operations  
-- Version Control & Collaboration  
+- Version Control & Team Collaboration  
 - Build Tools & Deployment Workflows  
 
 ---
@@ -90,7 +93,7 @@ I value **code quality, consistency, and continuous learning**.
 ## 🧠 Core Engineering Concepts
 
 - Object-Oriented Programming (OOP)
-- Data Structures & Problem Solving
+- Data Structures & Algorithms
 - Full-Stack Application Architecture
 - Authentication & Authorization
 - Performance Optimization
@@ -101,7 +104,7 @@ I value **code quality, consistency, and continuous learning**.
 ## 🌟 Selected Projects
 
 🔹 **To-Do List Application**  
-A clean and responsive task manager built with React  
+Clean and responsive task manager built with React  
 👉 https://todo-list-beryl-zeta.vercel.app/
 
 🔹 **Personal Portfolio Website**  
@@ -114,7 +117,7 @@ React-based UI for exploring movie recommendations
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveen7413&show_icons=true&theme=radical&hide_border=true" height="165"/>
