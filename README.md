@@ -1,32 +1,4 @@
-<html>
-    <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
-
-        <script src="https://unpkg.com/typeit@8.0.3/dist/index.umd.js"></script>
-
-        <style>
-            #animated-text {
-                margin-top: 15%;
-                margin-left: 15%;
-                font-family: Rubik;
-                font-size: 96px;
-            }
-        </style>
-    </head>
-
-    <body>
-        <p id="animated-text"></p>
-
-        <script>
-            new TypeIt("#animated-text", {})
-                .pause(1600)
-                .type("Hi, I'm Berkan", {delay: 5000})
-                .go();
-        </script>
-    </body>
-</html>
+<h1>Naveen Kumar<h1>
 <h3 align="center">Frontend Developer • React.js • MERN Stack  Software Engineer</h3>
 
 
