@@ -141,8 +141,14 @@ React-based UI for browsing movie recommendations<br/>
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen7413&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen7413&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=naveen7413&show_icons=true&count_private=true&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen7413&layout=compact&hide_border=true"
+    height="160"
+  />
 </p>
 
 <hr/>
