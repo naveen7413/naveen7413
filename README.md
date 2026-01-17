@@ -28,7 +28,7 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-<h2>👋 About Me</h2>
+<h2>👋 About Me .</h2>
 
 <p>
 I’m a <b>Frontend-focused Full Stack Developer</b> with hands-on experience building modern web applications using
