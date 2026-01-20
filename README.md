@@ -3,7 +3,7 @@
 <h1 align="center">Naveen Kumar</h1>
 
 <p align="center">
-  <b>Frontend Developer • React.js • MERN Stack • Software Engineer</b>
+  <b>Frontend Developer • React.js • MERN Stack • Software Engineer</b>  
 </p>
 
 <p align="center">
